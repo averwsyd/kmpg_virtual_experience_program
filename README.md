@@ -1,9 +1,9 @@
 # KMPG Virtual Experience Programe with Forage 
 __The company:__
-Spocket Central, a (fictional) medidium size bikes & cycling accessories organisation.
+>Spocket Central, a (fictional) medidium size bikes & cycling accessories organisation.
 
 __The problem:__  
-Analyses the customer trends of their existing customers and recommend whcih of the 1000 new customers they shoud target. 
+>Analyses the customer trends of their existing customers and recommend whcih of the 1000 new customers they shoud target. 
 
 ## __Task 1. Data Quality Assessment__
 

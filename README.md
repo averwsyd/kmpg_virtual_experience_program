@@ -3,7 +3,7 @@ __The company:__
 >Spocket Central, a (fictional) medidium size bikes & cycling accessories organisation.
 
 __The problem:__  
->Analyse the customer trends of their existing customers and recommend whcih of the 1000 new customers they shoud target. 
+>Analyse the customer trends and behaviour of their existing customers and recommend whcih of the 1000 new customers they shoud target. 
 
 ## __Task 1. Data Quality Assessment__
 

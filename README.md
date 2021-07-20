@@ -6,7 +6,7 @@ __The problem:__
 >Analyse the customer trends and behaviour of their existing customers and recommend whcih of the 1000 new customers they shoud target. 
 
 __Covered:__
->Data Preprossessing, Exploratory Data Analysis, Supervised Machine Learning
+>Data Preprocessing, Exploratory Data Analysis, Supervised Machine Learning
 
 ## __Task 1. Data Quality Assessment__
 

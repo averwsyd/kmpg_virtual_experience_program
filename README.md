@@ -13,5 +13,5 @@ __Covered:__
 Use the [Data Quality Framework](https://images.app.goo.gl/ezoZeFvVzoxqJw53A) as a reference and clean the 3 datasets of the existing customers and transactions (Customer Demogrphic, Customer Address and Transactions data in the past 3 months) 
 
 ## __Task 2. Data Insights and Presentation__
-Use the the data of existing customers as labelded datasets and determine which of the 1000 new customers, who have no transaction history, are of high value and should be targeted. Present the results in a a darshbord (Tableau).
+Use the 3 datasets in task 1 as labelded datasets and determine which of the 1000 new customers, who have no transaction history, are of high value and should be targeted. Present the results in a a darshbord (Tableau).
 
